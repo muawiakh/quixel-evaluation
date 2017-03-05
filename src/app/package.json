@@ -1,0 +1,16 @@
+{
+  "name": "url-shortner",
+  "version": "1.0.0",
+  "description": "Basic web app for Quixel developer test for shortening URLs",
+  "main": "app.js",
+  "scripts": {
+    "prestart": "npm install",
+    "start": "node app.js"
+  },
+  "author": "Muawia Khan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1"
+  }
+}
